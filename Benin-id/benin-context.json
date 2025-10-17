@@ -5,7 +5,7 @@
 		"type": "@type",
 		"schema": "https://schema.org/",
 		"BeninVerifiableCredential": {
-			"@id": "https://raw.githubusercontent.com/Benin-id/assets/main/Benin-id/benin-context.json#BeninVerifiableCredential"
+			"@id": "https://mijan32.github.io/assets/Benin-id/benin-context.json#BeninVerifiableCredential"
 		},
 		"firstName": "schema:name",
 		"lastName": "schema:name",
