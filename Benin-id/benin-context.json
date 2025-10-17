@@ -1,0 +1,23 @@
+{
+	"@context": {
+		"@version": 1.1,
+		"@protected": true,
+		"type": "@type",
+		"schema": "https://schema.org/",
+		"BeninVerifiableCredential": {
+			"@id": "https://raw.githubusercontent.com/Benin-id/assets/main/Benin-id/benin-context.json#BeninVerifiableCredential"
+		},
+		"firstName": "schema:name",
+		"lastName": "schema:name",
+		"motherName": "schema:name",
+		"dateOfBirth": "schema:birthDate",
+		"gender": "schema:gender",
+		"nationality": "schema:nationality",
+		"birthPlace": "schema:birthPlace",
+		"phoneNumber": "schema:phoneNumber",
+		"npi": "schema:identifier",
+		"email": "schema:email",
+		"profession": "schema:profession",
+		"face": "schema:Text"
+	}
+}
